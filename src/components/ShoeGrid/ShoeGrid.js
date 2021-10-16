@@ -21,7 +21,7 @@ const Wrapper = styled.div`
 
   > * {
     flex: 1 1 312px;
-    min-width: 200px;
+    min-width: 275px;
     max-width: 400px;
   }
 `;
